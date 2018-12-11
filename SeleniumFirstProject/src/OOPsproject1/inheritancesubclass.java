@@ -38,6 +38,17 @@ public void childclass3(){
 	
 	
 }
+@Overides
+
+public void Parentclass2(){
+	
+	System.out.println("i am over ridding  in parent class");
+	
+	
+	
+}
+
+
 	
 
 }
